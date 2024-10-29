@@ -97,7 +97,7 @@ body {
   position: absolute;
   z-index: 1;
   top: 84px;
-  right: 250px;
+  right: 770px;
   width: 400px;
   border: #ffcccb;
   scale: 1.9;
@@ -165,6 +165,7 @@ body {
   border: none;
   animation: load 3s ease;
   cursor: url('question.cur') 7 9,  auto;
+  word-spacing: 140px;
 }
 
 .title:hover {
